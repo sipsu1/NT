@@ -566,7 +566,7 @@ Klientrakendusele kaitstud teenuse kaudu. Andmekogu raporteerib Andmenõusolekut
 Järgnev diagramm kirjeldab nõusoleku võimalikke seisundeid ja
 nendevahelisi üleminekuid.
 
-![Nõusoleku seisundidiagramm](https://raw.githubusercontent.com/e-gov/NT/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/image3.png)
+![Nõusoleku seisundidiagramm](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/olekudiagramm%201.png)
 
 # Andmenõusolekuteenusega liidestamine ja päringute tehniline kirjeldus
 
@@ -1278,7 +1278,7 @@ Andmenõusolekuteenuse haldusliides on mõeldud eesmärgideklaratsioonide, teenu
 -   Juhul, kui Klientrakendus vajab mitmes teenusedeklaratsioonides kirjeldatud andmeid, peab deklareerima mitu vastavat eesmärgideklaratsiooni. Üks eesmärgideklaratsioon võib olla seotud ainult ühe teenusedeklaratsiooniga.
 
     
-![Loogilised seosed infosüsteemide ja deklaratsioonide vahel](https://raw.githubusercontent.com/e-gov/NT/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/image4.png)
+![Loogilised seosed infosüsteemide ja deklaratsioonide vahel](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/image-2025-10-25_9-37-19.png)
 
 ## Rollid
 
@@ -1314,14 +1314,14 @@ Iga deklaratsiooniga saab teha järgmised tegevused:
 võimalik ainult siis, kui infosüsteemiga pole seotud ühtegi kehtiva
 teenusedeklaratsiooni.
 
-![Infosüsteemide nimekiri](https://raw.githubusercontent.com/e-gov/NT/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/image5.jpg)
+![joonis1](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/haldusliides1%202025-11-20.png)
 
 **Infosüsteemi lisamine**
 
 Uue infosüsteemi lisamise vorm. Sisestatavad andmed on detailselt
 kirjeldatud jaotises [7.2.2](#infosüsteemi-andmed).
 
-![Infosüsteemi lisamine](https://raw.githubusercontent.com/e-gov/NT/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/image6.jpg)
+![jooni2](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/image-2025-10-25_10-48-41.png)
     
 **Infosüsteemi muutmine**
 
@@ -1330,7 +1330,7 @@ muutmine ei mõjuta sellega seotud teenusedeklaratsioone - seal jäävad
 endised andmed. Uued teenusedeklaratsioonid luuakse kasutades uued
 andmed.
 
-![Infosüsteemi muutmine](https://raw.githubusercontent.com/e-gov/NT/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/image7.jpg)
+![joonis3](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/haldusliides2%202025-11-24.png)
 
 ### Infosüsteemi andmed
     
@@ -1373,14 +1373,14 @@ nõusolekud kehtetuteks.
 deklaratsiooni esitamise vormi automaatselt täidetakse kloonitava
 deklaratsiooni andmetega edasiseks redigeerimiseks.
 
-![Teenusedeklaratsionide nimekiri](https://raw.githubusercontent.com/e-gov/NT/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/image8.jpg)
+![joonis4](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/haldusliides3%202025-11-24.png)
 
 **Teenusedeklaratsiooni esitamine**
 
 Uue teenusedeklaratsiooni esitamise vorm. Sisestatavad andmed on
 detailselt kirjeldatud jaotises [7.3.2.](#teenusedeklaratsiooni-andmed)
 
-![Teenusedeklaratsioni esitamine](https://raw.githubusercontent.com/e-gov/NT/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/image9.jpg)
+![joonis5](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/haldusliides4%202025-11-20.png)
 
 **Teenusedeklaratsiooni detailvaade**
 
@@ -1390,7 +1390,7 @@ kehtivat nõusolekut on seotud antud teenusedeklaratsiooniga. Detailvaate
 kaudu saab avaldada soovi muuta kehtiva deklaratsiooni andmed, vajutades
 nuppu \"Muuda deklaratsiooni andmed\".
 
-![Teenusedeklaratsioni detailvaade](https://raw.githubusercontent.com/e-gov/NT/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/image10.jpeg)
+![Teenusedeklaratsioni detailvaade](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/haldusliides5%202025-11-242.png)
 
 **Teenusedeklaratsiooni muutmine**
 
@@ -1398,7 +1398,7 @@ Vaade, mis võimaldab kehtiva teenusedeklaratsiooni andmed osaliselt
 muuta. Millised väljad tohib/ei tohi muuta on kirjeldatud jaotises
 [7.3.2.](#teenusedeklaratsiooni-andmed)
 
-![Teenusedeklaratsioni muutmine](https://raw.githubusercontent.com/e-gov/NT/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/image11.jpeg)
+![Teenusedeklaratsioni muutmine](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/haldusliides6%202025-11-24.png)
 
 ### Teenusedeklaratsiooni andmed
 
@@ -1429,7 +1429,7 @@ Staatus | TD olek. Võimalikud olekud: KEHTIV ja KEHTETU’ (vt. jaotis 7.2.3.) 
 
 ### Teenusedeklaratsiooni seisundidiagramm
 
-![Teenusedeklaratsiooni seisundidiagramm](https://raw.githubusercontent.com/e-gov/NT/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/image12.png)
+![Teenusedeklaratsiooni seisundidiagramm](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/image-2025-10-25_12-41-3.png)
 
 ## Eesmärgideklaratsioonide haldus
 
@@ -1462,14 +1462,14 @@ Iga deklaratsiooniga saab teha järgmised tegevused:
     jaoks - uue deklaratsiooni esitamise vormi automaatselt täidetakse
     kloonitava deklaratsiooni andmetega edasiseks redigeerimiseks.
 
-![Eesmärgideklaratsioonide nimekiri](https://raw.githubusercontent.com/e-gov/NT/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/image13.jpg)
+![Eesmärgideklaratsioonide nimekiri](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/haldusliides7%202025-11-24.png)
 
 **Eesmärgideklaratsiooni esitamine**
 
 Uue eesmärgideklaratsiooni esitamise vorm. Sisestatavad andmed on
 detailselt kirjeldatud jaotises [7.4.2.](#eesmärgideklaratsiooni-andmed)
 
-![Eesmärgideklaratsiooni esitamine](https://raw.githubusercontent.com/e-gov/NT/refs/heads/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/Eesm%C3%A4rgideklaratsiooni%20esitamine.PNG)
+![Eesmärgideklaratsiooni esitamine](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/image-2025-10-25_12-48-4.png)
 
 **Eesmärgideklaratsiooni detailvaade**
 
@@ -1480,7 +1480,7 @@ kehtiva deklaratsiooni andmed, vajutades nuppu \"Muuda deklaratsiooni
 andmed\". „Laadi alla" nuppu vajutades saab alla laadida
 eesmärgideklaratsiooni andmed CSV formaadis.
 
-![Eesmärgideklaratsiooni detailvaade](https://raw.githubusercontent.com/e-gov/NT/refs/heads/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/Eesm%C3%A4rgideklaratsiooni%20detailvaade.PNG)
+![Eesmärgideklaratsiooni detailvaade](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/haldusliides8%202025-11-24.png)
 
 **Eesmärgideklaratsiooni muutmine**
 
@@ -1488,7 +1488,7 @@ Vaade, mis võimaldab kehtiva eesmärgideklaratsiooni andmed osaliselt
 muuta. Milliseid välju tohib/ei tohi muuta on kirjeldatud jaotises
 [7.4.2.](#eesmärgideklaratsiooni-andmed)
 
-![Eesmärgideklaratsiooni muutmine](https://raw.githubusercontent.com/e-gov/NT/refs/heads/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/Eesm%C3%A4rgideklaratsiooni%20muutmine.PNG)
+![Eesmärgideklaratsiooni muutmine](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/haldusliides9%202025-11-24.png)
 
 ### Eesmärgideklaratsiooni andmed
 
@@ -1512,7 +1512,7 @@ Staatus | ED olek. Võimalikud olekud: KEHTIV ja KEHTETU (vt. jaotis 7.3.3.) | k
 
 ### Eesmärgideklaratsiooni seisundidiagramm
 
-![Eesmärgideklaratsiooni seisundidiagramm](https://raw.githubusercontent.com/e-gov/NT/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/image17.png)
+![Eesmärgideklaratsiooni seisundidiagramm](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/image-2025-10-25_13-25-27.png)
     
 ## Statistika
 
@@ -1541,7 +1541,7 @@ Statistika tulemuste tabelis saab näha statistikat vastavalt valitud
 Infosüsteemi ja/või andmete saaja järgi. Võimaldab statistika andmeid
 sorteerida erinevate tulpade järgi.
 
-![Statistika väljund](https://raw.githubusercontent.com/e-gov/NT/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/image31.png)
+![Statistika väljund](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/image-2025-10-25_13-40-24.png)
 
 ### Statistika andmestik
 
