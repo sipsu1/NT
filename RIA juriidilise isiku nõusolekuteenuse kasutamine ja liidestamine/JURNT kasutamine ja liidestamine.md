@@ -253,7 +253,7 @@ sellest on teada Klientrakendusele.
 
 **Põhistsenaariumi jadadiagramm:**
 
-![Põhistsenaariumi jadadiagramm](https://raw.githubusercontent.com/e-gov/NT/master/RIA%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatud%20pildid/image1.png)
+![Põhistsenaariumi jadadiagramm](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20n%C3%B5usolekuteenuse%20kasutamine%20ja%20liidestamine/dokumendis%20kasutatavad%20pildid/kasutus%2011.png)
 
 
 **Alternatiivsed stsenaariumid ja laiendused:**
