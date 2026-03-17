@@ -986,13 +986,13 @@ Uue teenusedeklaratsiooni esitamise vorm. Sisestatavad andmed on detailselt kirj
 
 Kuvab teenusedeklaratsiooniga seotud andmed - nii põhiandmed kui ka metaandmed. Samuti, kuvab mitu kehtivat eesmärgideklaratsiooni ja mitu kehtivat nõusolekut on seotud antud teenusedeklaratsiooniga. Detailvaate kaudu saab avaldada soovi muuta kehtiva deklaratsiooni andmed, vajutades nuppu "Muuda deklaratsiooni andmed".
 
-![Teenusedeklaratsioni detailvaade](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image10.jpeg)
+![Teenusedeklaratsioni detailvaade](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image10.png)
 
 **Teenusedeklaratsiooni muutmine**
 
 Vaade, mis võimaldab kehtiva teenusedeklaratsiooni andmeid osaliselt muuta. Millised väljad tohib/ei tohi muuta on kirjeldatud jaotises [7.3.2.](#teenusedeklaratsiooni-andmed)
 
-![Teenusedeklaratsioni muutmine](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image11.jpeg)
+![Teenusedeklaratsioni muutmine](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image11.png)
 
 ### 7.3.2 Teenusedeklaratsiooni andmed
 
