@@ -974,13 +974,13 @@ Iga deklaratsiooniga saab teha järgmised tegevused:
 
 "Klooni" - kasuta deklaratsioon mallina uue deklaratsiooni jaoks - uue deklaratsiooni esitamise vorm täidetakse automaatselt kloonitava deklaratsiooni andmetega edasiseks redigeerimiseks.
 
-![Teenusedeklaratsionide nimekiri](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image8.jpg)
+![Teenusedeklaratsionide nimekiri](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image%208.png)
 
 **Teenusedeklaratsiooni esitamine**
 
 Uue teenusedeklaratsiooni esitamise vorm. Sisestatavad andmed on detailselt kirjeldatud jaotises [7.3.2.](#teenusedeklaratsiooni-andmed)
 
-![Teenusedeklaratsioni esitamine](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image9.jpg)
+![Teenusedeklaratsioni esitamine](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image%209.png)
 
 **Teenusedeklaratsiooni detailvaade**
 
@@ -1046,7 +1046,7 @@ Iga deklaratsiooniga saab teha järgmised tegevused:
 
 • *"Klooni"* - kasuta deklaratsioon mallina uue deklaratsiooni jaoks - uue deklaratsiooni esitamise vormi automaatselt täidetakse kloonitava deklaratsiooni andmetega edasiseks redigeerimiseks.
 
-![Eesmärgideklaratsioonide nimekiri](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image13.jpg)
+![Eesmärgideklaratsioonide nimekiri](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image%2013.png)
 
 **Eesmärgideklaratsiooni esitamine**
 
