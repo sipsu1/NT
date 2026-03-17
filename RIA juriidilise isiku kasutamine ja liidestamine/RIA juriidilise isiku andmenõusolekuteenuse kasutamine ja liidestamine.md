@@ -1,10 +1,5 @@
 # RIA juriidilise isiku andmenõusolekuteenuse kasutamine ja liidestamine
 
-09.03.2026
-
-Versioon 0.1
-
-***
 
 Versiooni ajalugu
 
@@ -13,12 +8,6 @@ Versiooni ajalugu
 | 09.03.2026 | 0.1      | Dokument loodud |
 
 Sisukord
-
-[RIA juriidilise isiku andmenõusolekuteenuse kasutamine ja liidestamine](#ria-juriidilise-isiku-andmenõusolekuteenuse-kasutamine-ja-liidestamine)
-
-[**Sisukord**](#_Toc223962193)
-
-[Contents](#_Toc223962194)
 
 [1 Sissejuhatus](#1-sissejuhatus)
 
