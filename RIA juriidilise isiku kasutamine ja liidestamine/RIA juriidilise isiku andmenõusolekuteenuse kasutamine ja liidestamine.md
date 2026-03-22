@@ -1151,7 +1151,7 @@ Juriidilisest isikust Andmesubjekti esindaja saab tutvuda nõusolekutaotlustega 
 
 ### 10.1.1 Klientrakenduse tegevused enne suunamist
 
-Iga kord kui Klientrakendus soovib suunata Andmesubjekti esindajat nõusolekuid andma, peab see küsima Andmenõusolekuteenusest JURNT uue lingi vajalike nõusolekutaotluste komplektiga. Uus link küsitakse kasutades teenust **url** API (vt jaotis [5.1.1] (\#Nõusoleku(te) lingi (URL) päring - url)).
+Iga kord kui Klientrakendus soovib suunata Andmesubjekti esindajat nõusolekuid andma, peab see küsima Andmenõusolekuteenusest JURNT uue lingi vajalike nõusolekutaotluste komplektiga. Uus link küsitakse kasutades teenust **url** API (vt jaotis [5.1.4](#514-nõusolekute-lingi-url-päring---url)).
 
 Enne Andmenõusolekuteenusesse suunamist peab Klientrakendus informeerima Andmesubjekti või Andmesubjekti esindajat nõusoleku(te) andmise vajadusest, andmete töötlemise tingimustest ja eesootavast Andmenõusolekuteenusesse suunamisest. Kui Teenusepakkuja teeb nõusolekupäringu(d) JURNT kaudu, saadab JURNT automaatselt Andmesubjektile e-kirja teel teavituse läbi eesti.ee riikliku postkasti.
 
