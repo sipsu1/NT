@@ -1188,11 +1188,11 @@ PS! Kui andmekogu poolt on teenusedeklaratsioonis nõusoleku andmisel digitaalne
 
 ### 10.1.3 Klientrakenduse tegevused peale suunamist
 
-Peale Andmesubjekti esindaja tagasi suunamist küsib Klientrakendus Andmenõusolekuteenusest nõusolekuviited ning nende valideerimise, et teada saada, millised nõusolekud olid antud ja nüüd kehtivad. Kasutatakse **url** ja **client** API-d (vt jaotised [5.1.2.](\#Nõusolekuviidete päring - status) ja [5.1.3.](\#Nõusoleku kehtivuse päring Teenusepakkujale/Klientrakendusele - client)).
+Peale Andmesubjekti esindaja tagasi suunamist küsib Klientrakendus Andmenõusolekuteenusest nõusolekuviited ning nende valideerimise, et teada saada, millised nõusolekud olid antud ja nüüd kehtivad. Kasutatakse **url** ja **client** API-d (vt jaotised [5.1.2](#512-nõusoleku-päringu-algataminenõusoleku-küsimine---create) ja [5.1.3](#513-nõusolekuviidete-päring---status)).
 
 Vastavalt saadud vastusele, kuvab Klientrakendus Andmesubjekti esindajale teate. Kui kõik vajalikud nõusolekud kehtivad, võib Klientrakendus hakata küsima andmeid Andmekogult ja osutama teenust Andmesubjektile või Andmesubjekti esindajale.
 
-Kui mõned nõusolekud on puudu, küsib Klientrakendus Andmenõusolekuteenusest uue lingi (kasutades **url** API (vt jaotis [5.1.1.](\#Nõusoleku(te) lingi (URL) päring - url)) ja suunab Andmesubjekti esindaja puuduvaid nõusolekuid andma.
+Kui mõned nõusolekud on puudu, küsib Klientrakendus Andmenõusolekuteenusest uue lingi (kasutades **url** API (vt jaotis [5.1.1](#511-eesmärgideklaratsioonide-nimekirja-päring---purposedeclarations)) ja suunab Andmesubjekti esindaja puuduvaid nõusolekuid andma.
 
 ## 10.2 Nõusolekute haldus
 
@@ -1232,11 +1232,11 @@ Kui kasutaja on nõusolekupäringu ära esitanud, sulgub hüpikaken ja nõusolek
 
 ### 10.3.1 Nõusolekute küsimine Klientrakenduse kaudu
 
-Kui Teenusepakkuja Klientrakendus soovib juriidilisest isikust Andmesubjektidelt saada nõusolekuid andmete saamiseks Andmekogult, siis küsitakse kõigepealt kehtivaid eesmärgideklaratsioone kasutades teenust **purposedeclarations** API (vt jaotis [5.1.1] (\#Eesmärgideklaratsioonide nimekirja päring - purposedeclarations).
+Kui Teenusepakkuja Klientrakendus soovib juriidilisest isikust Andmesubjektidelt saada nõusolekuid andmete saamiseks Andmekogult, siis küsitakse kõigepealt kehtivaid eesmärgideklaratsioone kasutades teenust **purposedeclarations** API (vt jaotis [5.1.1](#511-eesmärgideklaratsioonide-nimekirja-päring---purposedeclarations)).
 
-Valitud eesmärgideklaratsioonile vastavate andmete saamiseks Andmekogust tehakse nõusolekupäringud juriidilistele isikutele kasutades teenust **create** API (vt jaotis [5.1.1] (\#Nõusoleku päringu algatamine/nõusoleku küsimine - create). Klientrakendusel peavad registrikoodid eelnevalt teada olema. Korraga saab koostada nõusolekupäringud 1 - 100 juriidilisele isikule.
+Valitud eesmärgideklaratsioonile vastavate andmete saamiseks Andmekogust tehakse nõusolekupäringud juriidilistele isikutele kasutades teenust **create** API (vt jaotis [5.1.2](#512-nõusoleku-päringu-algataminenõusoleku-küsimine---create)). Klientrakendusel peavad registrikoodid eelnevalt teada olema. Korraga saab koostada nõusolekupäringud 1 - 100 juriidilisele isikule.
 
-Kehtivate nõusolekute kohta saab Klientrakendus nõusolekuviited kasutades teenust **status** API (vt jaotis [5.1.1] (\#Nõusolekuviitade päring - status).
+Kehtivate nõusolekute kohta saab Klientrakendus nõusolekuviited kasutades teenust **status** API (vt jaotis [5.1.3](#513-nõusolekuviidete-päring---status)).
 
 ## 10.4 Edastatud andmed
 
