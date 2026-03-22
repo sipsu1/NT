@@ -111,7 +111,6 @@ Sisukord
 
 [10.4 Edastatud andmed](#104-edastatud-andmed)
 
-[11 Kasutustingimused](#11-kasutustingimused)
 
 # 1 Sissejuhatus
 
@@ -1170,31 +1169,22 @@ Näidistekst:
 
 ### 10.1.2 Andmenõusolekuteenuses
 
-Enne Andmenõusolekuteenusesse JURNT sattumist autendib Andmesubjekti esindaja ennast TARA kaudu, kasutades ühte pakutavatest sisselogimisviisidest.
+Juriidilisest isikust Andmesubjekti esindaja saab tutvuda nõusolekutaotlustega ja anda vajalikud nõusolekud peale eesti.ee portaali sisenemist ja enda autentimist TARA kaudu, kasutades ühte pakutavatest sisselogimisviisidest. 
 
 ![TARA](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image%2019.png)
 
-Pärast autentimist ja esindatava ettevõtte valimist näeb Andmesubjekti esindaja nõusolekutaotlusi. Antud näitel küsitakse nõusolekut kahe andmekomplekti edastamisele, kusjuures avatud on ülemine, kõige uuem nõusolekutaotlus.
+Peale esindatava ettevõtte valikut saab kasutaja avada Andmenõusoleku menüüpunkti alt Ootel nõusolekute alamlehe, kus kuvatakse temale suunatud ootel nõusolekutaotluste loetelu vaade, nii et esimene, kõige uuem nõusolekutaotlus on avatud.
 
-![Nõusolekutaotlused](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image%2020.png)
+![Nõusolekutaotlused](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/ant1.png)
 
-Pärast nõusolekutaotluse detailidega tutvumist saab Andmesubjekti esindaja valida, kas ta lubab või ei luba kirjeldatud andmekomplekti edastamist. Kui lubab, siis staatuse silt ja nupp muutuvad rohelisteks.
+Pärast nõusolekutaotluse detailidega tutvumist saab Andmesubjekti esindaja valida, kas ta lubab või ei luba kirjeldatud andmekomplekti edastamist oma esindatava juriidilise isiku kohta käivate andmetega. Kui lubab, siis staatuse silt ja nupp muutuvad rohelisteks ning nupp "Kinnitan" aktiivseks. 
+Kui Andmesubjekti esindaja ei luba kirjeldatud andmekomplekti edastada, siis muutuvad staatuse silt ja nupp punasteks ning nupp "Kinnitan" aktiivseks.
 
-![Luban](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image%2021.png)
-
-Kui Andmesubjekt või Andmesubjekti esindaja ei luba kirjeldatud andmekomplekti edastada, siis muutuvad staatuse silt ja nupp punasteks.
-
-![Ei luba](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image%2022.png)
-
-Enne „Kinnitan" nupu vajutamist saab Andmesubjekti esindaja oma otsuseid muuta.
-
-Kui valikud on tehtud, vajutab Andmesubjekti esindaja nuppu „Kinnitan". Andmenõusolekuteenus JURNT teeb kinnitatud nõusoleku kehtivaks.
+![Luban](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/ant2.png)
 
 PS! Kui andmekogu poolt on teenusedeklaratsioonis nõusoleku andmisel digitaalne allkirjastamine nõutud, siis tuleb nõusolek digitaalselt allkirjastada.
 
-Kui kõik valikud on tehtud, suunatakse Andmesubjekti või Andmesubjekti esindaja tagasi Klientrakendusesse.
-
-![Kinnitan](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image%2023.png)
+![Ei luba](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/ant3.png)
 
 ### 10.1.3 Klientrakenduse tegevused peale suunamist
 
@@ -1206,21 +1196,17 @@ Kui mõned nõusolekud on puudu, küsib Klientrakendus Andmenõusolekuteenusest 
 
 ## 10.2 Nõusolekute haldus
 
-Nõusolekute haldusliides on osa eesti.ee portaalist ja juriidilisest isikust Andmesubjekti esindaja leiab selle peale sisselogimist menüüpunkti Andmenõusolek alt alamlehelt "Kõik nõusolekud". Kasutaja saab juriidilise isiku esindajana näha kõiki nõusolekuid, mida ta on antud Andmesubjekti esindajana kinnitanud või millest loobunud, nii kehtivaid kui kehtetuid. Sellel lehel ei kuvata nõusolekutaotlusi (staatus Otsuse ootel), mida näeb alamlehel "Ootel nõusolekud".
+Nõusolekute haldusvõimalused leiab juriidilisest isikust Andmesubjekti esindaja peale sisselogimist menüüpunkti Andmenõusolek alt alamlehelt "Kõik nõusolekud". Kasutaja saab juriidilise isiku esindajana näha kõiki nõusolekuid, mida ta on antud Andmesubjekti esindajana kinnitanud või millest loobunud, nii kehtivaid kui kehtetuid. Sellel lehel ei kuvata nõusolekutaotlusi (staatus Otsuse ootel), mida näeb alamlehel "Ootel nõusolekud".
 
-Nõusolekuid saab filtreerida staatuse, andmete saaja, andmete edastaja, andmete nimetuse, nõusoleku numbri ja kuupäevade (Kehtib alates, Kehtib kuni) järgi. Nõusolekute tabel on sorteeritav ühe veeru alusel.
+Nõusolekuid saab filtreerida andmete saaja, andmete edastaja, andmete nimetuse, nõusoleku numbri  ja kuupäevade (Kehtib alates, Kehtib kuni) järgi. Nõusolekute tabel on sorteeritav ühe veeru alusel. 
 
-![Minu nõusolekud](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image%2024.jpeg)
+![Minu nõusolekud](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/ant4.png)
 
 Tabeli reale vajutades avaneb nõusoleku detailide vaade koos nupuga „Loobun nõusolekust“ kehtiva nõusoleku puhul. Selle nupu abil saab nõusoleku tagasi võtta. Värviline joon nõusoleku detailandmete ees viitab staatusele.
 
-![Nõusoleku detailid ja loobumine](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image%2025.png)
+![Nõusoleku detailid ja loobumine](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/ant5.png)
 
 Kui Andmesubjekti esindaja kinnitas või allkirjastas nõusoleku (sh ka loobus), siis nõusoleku detailandmetel kuvatakse kinnitaja/allkirjastaja nimi.
-
-Kehtetu nõusoleku detailides saab näha põhjust, miks nõusolek ei kehti (nõusolek on tagasi võetud / nõusolek on aegunud / andmeedastus on lõppenud).
-
-![Nõusoleku kehtivuse lõppemise põhjus](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image%2026.jpg)
 
 ### 10.2.1 Nõusolekust loobumine
 
@@ -1228,23 +1214,19 @@ Juriidilisest isikust Andmesubjekti esindaja saab nõusolekust loobuda nupust �
 
 Kui andmekogu poolt läbi teenusedeklaratsiooni on nõusolekust loobumisel digitaalne allkirjastamine nõutud, siis nõusolekust loobumine tuleb allkirjastada digitaalselt.
 
-![Loobu või pikenda](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image%2027.png)
-
-Kui nõusolekust loobutakse, siis muudetakse nõusolek kehtetuks ja kasutajale kuvatakse teadet „Nõusolek on tagasi võetud".
-
-![Loobutud nõusolek](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image%2028.png)
+![Loobu või pikenda](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/ant6.png)
 
 ## 10.3 Nõusoleku küsimine
 
 Juriidilisest isikust Teenusepakkuja esindaja leiab peale eesti.ee portaali sisselogimist menüüpunkti Andmenõusolek alt vahelehelt "Nõusolekute küsimine" võimaluse potentsiaalsetele teenuse kasutajatele nõusolekupäringute tegemiseks. Loetelus on näha kõik sisseloginud kasutaja poolt tehtud nõusolekupäringud sõltumata nõusoleku staatusest.
 
-link pildile
+![Vaadata nõusolekuid](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/ant7.png)
 
 Nupu "+ Loo nõusoleku päring" kasutamise järel kuvatakse kasutajale hüpikaken nõusolekupäringu sisendandmete koostamiseks. Päringu tegemise eelduseks on, et esindataval juriidilisel isikul on olemas leping mõne andmete pakkujaga (andmekoguga), millel on olemas selle juriidilise isiku jaoks kehtiv(ad) andmeteenus(ed) (eesmärgideklaratsioon(id)).
 
 Kasutaja otsib juriidilise isiku, kelle kohta soovitakse andmeid saada, valib rippmenüüdest andmete pakkuja, andmeteenuse ja andmete jagamise eesmärgi ning esitab päringu.
 
-link pildile
+![Päringu esitamine](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/ant8.png)
 
 Kui kasutaja on nõusolekupäringu ära esitanud, sulgub hüpikaken ja nõusolekupäringu loetelusse on juurde tekkinud uus päring staatuses "Otsuse ootel". Nõusolekute haldamise funktsionaalsus toimib ka sellel valamlehel nagu kirjeldatud eelnevas jaotises Nõusolekute haldus.
 
@@ -1260,12 +1242,6 @@ Kehtivate nõusolekute kohta saab Klientrakendus nõusolekuviited kasutades teen
 
 Alamleht "Edastatud andmed" annab ülevaate sellest, millised edukad andmepäringud on tehtud Andmesubjekti nõusolekute alusel ja võimaldab jälgida enda esindatava juriidilise isiku kohta käivate andmete edastamisi.
 
-![Edastatud andmed](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/image%2029.jpeg)
+![Edastatud andmed](https://github.com/sipsu1/NT/blob/master/RIA%20juriidilise%20isiku%20kasutamine%20ja%20liidestamine/kasutatavad%20pildid/ant9.png)
 
 Vaatel kuvatakse vaikimisi loetelu viimastest andmeedastusest, vastavalt valitud arvule "Näita korraga". Kasutaja saab ette anda ajavahemiku, mille jooksul edastatud andmed teda huvitavad, või ka otsida märksõna(de) alusel kolme alfabeetilise sisuga veeru põhjal.
-
-# 11 Kasutustingimused
-
-Alamleht tutvustab Andmesubjektile Andmenõusolekuteenuse kasutustingimusi.
-
-*(täiendamisel)*
